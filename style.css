@@ -9,8 +9,8 @@ h1 {
     text-align: center;
     margin-top: 20px;
 }
-.centered-link {
-    display: block; /* Rend le lien de type bloc pour utiliser margin auto */
-    text-align: center; /* Centre le texte du lien */
-    margin: 20px auto; /* Centre horizontalement avec un espacement vertical */
+a {
+    display: block;
+    text-align: center;
+    margin: 20px auto;
 }
